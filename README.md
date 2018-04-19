@@ -5,4 +5,4 @@ Para executar basta digitar terminal:
   
   python AFD.py palavrasAFD.txt
   
-  Um arquivo contendo as resostas será criado.
+  Um arquivo contendo as respostas será criado.
